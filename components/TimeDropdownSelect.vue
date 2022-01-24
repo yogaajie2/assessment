@@ -1,5 +1,5 @@
 <template>
-  <div class="border border-secondary-lightest h-12 px-2 rounded-md flex items-center">
+  <div class="border border-secondary-lightest h-12 px-2 rounded-md flex items-center text-sm">
     <img
       src="~/assets/img/icon-clock.svg"
       class="pr-2"
