@@ -5,21 +5,21 @@
 
       "menuItems": [
         {
-          "image": "https://via.placeholder.com/96",
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090000020527/photo/4a4aac07_5e40df724ba.jpeg",
           "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
           "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
         },
 
         {
-          "image": "https://via.placeholder.com/96",
-          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
-          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090001023678/photo/5242e957_ff2cdac04a8.jpeg",
+          "name": "Seo Goo Udang Saos Telur asin",
+          "description": "Nasi Putih + Udang goreng saos telur asin"
         },
 
         {
-          "image": "https://via.placeholder.com/96",
-          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
-          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090004019767/photo/b031427f_bb8709e4e00.jpeg",
+          "name": "Seo Goo Cumi Saus Telur Asin",
+          "description": "Nasi putih + Cumi goreng tepung saus telur asin"
         }
       ]
     },
@@ -29,21 +29,39 @@
 
       "menuItems": [
         {
-          "image": "https://via.placeholder.com/96",
-          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
-          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090010010104/photo/4f26b747_5b7568648ea.jpeg",
+          "name": "Oppa Cumi ( Cumi Utuh Crispy)",
+          "description": "Per Tusuk - Cumi Utuh Goreng Krispi korea (Crispy Fried Squid)"
         },
 
         {
-          "image": "https://via.placeholder.com/96",
-          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
-          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090011029814/photo/e7fb457e_5321446a93d.jpeg",
+          "name": "Unnie Cumi Crispy",
+          "description": "Cumi Goreng Krispi (Crispy Fried Calamari)"
         },
 
         {
-          "image": "https://via.placeholder.com/96",
-          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
-          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090012027202/photo/b4a46b46_af001f0b18b.jpeg",
+          "name": "Oppa Cumi Bae Sah ( Cumi dan kerang Masak Saos - 2 Porsi)",
+          "description": "Cumi Masak Saos (Cooked Calamari With Sauce)"
+        }
+      ]
+    },
+
+    {
+      "categoryName": "Seerameon Ikan",
+
+      "menuItems": [
+        {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090016033177/photo/1a00fe16_7296f872d67.jpeg",
+          "name": "Ikan Kerapu Siram Saos",
+          "description": "Ikan Kerapu Siram Saos Asam Manis / telur asin"
+        },
+
+        {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090018013134/photo/992a34b0_488920e58ab.jpeg",
+          "name": "Ikan Kakap Siram Saos",
+          "description": "Ikan Kakap Siram Saos Asam Manis / telur asin"
         }
       ]
     }
