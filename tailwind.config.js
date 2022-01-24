@@ -16,7 +16,10 @@ module.exports = {
     },
 
     colors: {
-      primary: '#1C1C1C',
+      primary: {
+        DEFAULT: '#1C1C1C',
+        light: '#363A45'
+      },
       secondary: {
         DEFAULT: '#676767',
         light: '#ACACAC',
@@ -28,7 +31,8 @@ module.exports = {
       blue: '#00A5CF',
       green: '#00B14F',
       gray: '#F9FBFD',
-      darkgray: '#F7F7F7'
+      darkgray: '#F7F7F7',
+      footernew: '#EAEFF2'
     }
   },
   plugins: []
