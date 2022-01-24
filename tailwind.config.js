@@ -9,6 +9,10 @@ module.exports = {
   ],
   content: [],
   theme: {
+    container: {
+      center: true
+    },
+
     extend: {
       spacing: {
         '23': '5.75rem'
