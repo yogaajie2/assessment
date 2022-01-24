@@ -1,0 +1,51 @@
+{
+  "menu": [
+    {
+      "categoryName": "Aigo",
+
+      "menuItems": [
+        {
+          "image": "https://via.placeholder.com/96",
+          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+        },
+
+        {
+          "image": "https://via.placeholder.com/96",
+          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+        },
+
+        {
+          "image": "https://via.placeholder.com/96",
+          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+        }
+      ]
+    },
+
+    {
+      "categoryName": "Chingu",
+
+      "menuItems": [
+        {
+          "image": "https://via.placeholder.com/96",
+          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+        },
+
+        {
+          "image": "https://via.placeholder.com/96",
+          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+        },
+
+        {
+          "image": "https://via.placeholder.com/96",
+          "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+          "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan"
+        }
+      ]
+    }
+  ]
+}
