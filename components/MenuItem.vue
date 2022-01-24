@@ -1,18 +1,18 @@
 <template>
   <div class="border-b border-secondary-lightest flex py-4">
     <img
-      src="~/assets/img/img-1.jpeg"
-      alt="Do Yan Seafood - Sumbersekar : Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)"
+      :src="item.image"
+      :alt="item.name"
       class="rounded h-24 w-24 mr-4"
     >
 
-    <div>
-      <h3 class="text-base px-1">
-        Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)
+    <div class="px-1 w-full">
+      <h3 class="text-base">
+        {{ item.name }}
       </h3>
 
       <h6 class="mt-1 text-xs text-secondary-light">
-        Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan
+        {{ item.description }}
       </h6>
 
       <div class="mt-3" />
@@ -27,3 +27,14 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    item: {
+      type: Object,
+      required: true
+    }
+  }
+}
+</script>
