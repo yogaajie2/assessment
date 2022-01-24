@@ -6,6 +6,8 @@
     <MerchantInfo />
     <ScheduledOrder />
     <TheMenu />
+    <FooterNew />
+    <FooterDark />
   </div>
 </template>
 
