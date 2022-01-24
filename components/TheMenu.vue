@@ -5,7 +5,7 @@
         Aigo
       </h2>
 
-      <div class="border-b border-secondary-lightest flex pb-4">
+      <div class="border-b border-secondary-lightest flex py-4">
         <img
           src="~/assets/img/img-1.jpeg"
           alt="Do Yan Seafood - Sumbersekar : Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)"
