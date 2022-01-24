@@ -16,7 +16,7 @@
 <script>
 export default {
   methods: {
-    handleChange (value) {
+    handleChange(value) {
       // console.log(`selected ${value}`)
     }
   }
