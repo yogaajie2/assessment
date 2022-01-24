@@ -9,6 +9,7 @@ module.exports = {
     requireConfigFile: false
   },
   extends: [
+    'eslint:recommended',
     '@nuxtjs',
     'plugin:nuxt/recommended'
   ],
