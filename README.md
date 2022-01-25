@@ -1,5 +1,9 @@
 # assessment
 
+## Getting Started
+1. Fork this repository to you own GitHub account and then clone it to your local device.
+2. Make sure you have [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) installed in your device.
+
 ## Build Setup
 
 ```bash
@@ -21,4 +25,4 @@ To see the generated static site, visit [here](https://assessment-yogaprasetya.n
 
 If you have any questions, please contact me.
 
-Thank you for this opportunity.
+Thank you very much for giving me this opportunity.
