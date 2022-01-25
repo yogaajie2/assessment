@@ -1,7 +1,7 @@
 <template>
   <div class="lg:mt-23">
     <TheHeader />
-    <AddressBar />
+    <AddressBar class="lg:hidden" />
     <MerchantPhoto />
     <MerchantInfo />
     <ScheduledOrder />
@@ -24,5 +24,12 @@ export default {
       isOrderFeeModalShown: false
     }
   },
+
+  mounted() {
+    this.$nuxt.$on('showPromoModal', () => { this.isPromoModalShown = true })
+    this.$nuxt.$on('hidePromoModal', () => { this.isPromoModalShown = false })
+    this.$nuxt.$on('showOrderFeeModal', () => { this.isOrderFeeModalShown = true })
+    this.$nuxt.$on('hideOrderFeeModal', () => { this.isOrderFeeModalShown = false })
+  }
 }
 </script>
