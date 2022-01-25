@@ -1,5 +1,5 @@
 <template>
-  <div class="border-t border-secondary-lightest mt-3 pt-3">
+  <div class="border-t border-secondary-lightest mt-3 pt-3 lg:border-none lg:flex">
     <div class="flex items-center">
       <img
         src="~/assets/img/icon-promo-tag.svg"

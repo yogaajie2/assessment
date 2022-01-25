@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="lg:mt-23">
     <TheHeader />
     <AddressBar />
     <MerchantPhoto />

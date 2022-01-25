@@ -1,14 +1,16 @@
 <template>
-  <div class="mt-2 px-3 py-6 bg-white">
-    <h2 class="mb-6 font-medium text-xl">
+  <div class="mt-2 px-3 py-6 bg-white lg:bg-transparent">
+    <h2 class="mb-6 font-medium text-xl lg:text-4xl">
       {{ menu.categoryName }}
     </h2>
 
-    <MenuItem
-      v-for="(item, index) in menu.menuItems"
-      :key="index"
-      :item="item"
-    />
+    <div class="grid grid-cols-3 gap-6">
+      <MenuItem
+        v-for="(item, index) in menu.menuItems"
+        :key="index"
+        :item="item"
+      />
+    </div>
   </div>
 </template>
 

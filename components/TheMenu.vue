@@ -1,10 +1,12 @@
 <template>
-  <section class="bg-darkgray">
-    <MenuCategory
-      v-for="(menu, index) in menus"
-      :key="index"
-      :menu="menu"
-    />
+  <section class="py-18 bg-darkgray">
+    <div class="container">
+      <MenuCategory
+        v-for="(menu, index) in menus"
+        :key="index"
+        :menu="menu"
+      />
+    </div>
   </section>
 </template>
 
