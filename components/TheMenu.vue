@@ -1,6 +1,6 @@
 <template>
   <section class="py-18 bg-darkgray">
-    <div class="container">
+    <div class="lg:container">
       <MenuCategory
         v-for="(menu, index) in menus"
         :key="index"

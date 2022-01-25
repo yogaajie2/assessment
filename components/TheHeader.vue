@@ -1,5 +1,5 @@
 <template>
-  <header class="border-b border-secondary-lightest px-3 lg:border-none lg:fixed lg:top-0 lg:w-full lg:z-10 lg:bg-white">
+  <header class="border-b border-secondary-lightest lg:border-none lg:fixed lg:top-0 lg:w-full lg:z-10 lg:bg-white">
     <div class="container flex h-12 items-center justify-between lg:h-23">
       <a href="javascript:void(0)">
         <img

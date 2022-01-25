@@ -4,7 +4,7 @@
       {{ menu.categoryName }}
     </h2>
 
-    <div class="grid grid-cols-3 gap-6">
+    <div class="lg:grid lg:grid-cols-3 lg:gap-6">
       <MenuItem
         v-for="(item, index) in menu.menuItems"
         :key="index"

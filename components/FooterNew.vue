@@ -1,5 +1,5 @@
 <template>
-  <section class="pb-12 pt-8 px-3 bg-footernew text-primary-light">
+  <section class="pb-12 pt-8 bg-footernew text-primary-light">
     <div class="container">
       <div class="border-b border-secondary-lighter flex items-center justify-between pb-6">
         <a href="javascript:void(0)">
@@ -27,7 +27,7 @@
             Frequently Searched
           </p>
 
-          <ul>
+          <ul class="hidden lg:block">
             <li>
               <a href="javascript:void(0)">Burger King Menu</a>
             </li>
@@ -59,7 +59,7 @@
             Popular Cuisines
           </p>
 
-          <ul>
+          <ul class="hidden lg:block">
             <li>
               <a href="javascript:void(0)">Chinese Food</a>
             </li>
@@ -91,7 +91,7 @@
             About Grab
           </p>
 
-          <ul>
+          <ul class="hidden lg:block">
             <li>
               <a href="javascript:void(0)">About Grab</a>
             </li>
@@ -115,7 +115,7 @@
             Support
           </p>
 
-          <ul>
+          <ul class="hidden lg:block">
             <li>
               <a href="javascript:void(0)">Help</a>
             </li>

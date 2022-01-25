@@ -1,5 +1,5 @@
 <template>
-  <section class="pb-12 pt-8 px-3 text-center bg-primary-light text-white lg:text-left">
+  <section class="pb-12 pt-8 text-center bg-primary-light text-white lg:text-left">
     <div class="container">
       <div class="lg:flex lg:justify-between">
         <div>
@@ -36,7 +36,7 @@
         </div>
       </div>
 
-      <div class="flex justify-between">
+      <div class="lg:flex lg:justify-between">
         <div class="mb-6 lg:mb-0">
           <p class="mb-2 text-base text-secondary-lighter">
             &copy; Grab 2022
