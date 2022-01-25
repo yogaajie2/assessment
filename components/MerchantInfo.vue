@@ -11,6 +11,6 @@
     <RatingAndDistance />
     <OpenHours />
     <PromoComponent />
-    <OrderFeeMobile />
+    <OrderFee />
   </section>
 </template>
