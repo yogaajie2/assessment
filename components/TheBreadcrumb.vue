@@ -8,7 +8,7 @@
     </a>
     <img
       src="~/assets/img/icon-next.svg"
-      class="w-4"
+      class="w-3"
     >
     <a
       href="javascript:void(0)"
@@ -18,7 +18,7 @@
     </a>
     <img
       src="~/assets/img/icon-next.svg"
-      class="w-4"
+      class="w-3"
     >
     <a href="javascript:void(0)">Do Yan Seafood - Sumbersekar</a>
   </section>
