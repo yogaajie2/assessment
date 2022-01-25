@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b border-secondary-lightest flex py-4 lg:border-none lg:p-4 lg:rounded lg:bg-white">
+  <div class="border-b border-secondary-lightest flex py-4 cursor-pointer lg:border lg:border-transparent lg:p-4 lg:rounded lg:bg-white hover:border hover:border-green">
     <img
       :src="item.image"
       :alt="item.name"
