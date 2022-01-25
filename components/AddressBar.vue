@@ -1,5 +1,5 @@
 <template>
-  <section class="flex h-10 sticky items-center justify-center top-0 gap-2 bg-white">
+  <section class="flex h-10 sticky items-center justify-center top-0 gap-2 z-10 bg-white">
     <div class="flex justify-center items-center rounded-full p-1 w-5 bg-red">
       <font-awesome-icon
         :icon="['fas', 'map-marker']"
