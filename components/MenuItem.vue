@@ -1,5 +1,8 @@
 <template>
-  <div class="border-b border-secondary-lightest flex py-4 cursor-pointer lg:border lg:border-transparent lg:p-4 lg:rounded lg:bg-white hover:border hover:border-green">
+  <div
+    class="border-b border-secondary-lightest flex py-4 relative cursor-pointer lg:border lg:border-transparent lg:p-4 lg:rounded lg:bg-white lg:hover:border lg:hover:border-green"
+    @click="isLoginTooltipShown = !isLoginTooltipShown"
+  >
     <img
       :src="item.image"
       :alt="item.name"
@@ -25,6 +28,19 @@
         />
       </div>
     </div>
+
+    <div
+      v-show="isLoginTooltipShown"
+      class="absolute top-1/2 flex items-center justify-between p-4 rounded w-11/12 z-10 bg-white shadow-lg"
+    >
+      <p class="font-medium">
+        Please login to add this item to your basket.
+      </p>
+
+      <a href="javascript:void(0)">
+        <button class="px-4 rounded font-medium bg-green  text-white">Login/Sign Up</button>
+      </a>
+    </div>
   </div>
 </template>
 
@@ -34,6 +50,12 @@ export default {
     item: {
       type: Object,
       required: true
+    }
+  },
+
+  data() {
+    return {
+      isLoginTooltipShown: false
     }
   }
 }
