@@ -41,7 +41,8 @@ module.exports = {
       green: '#00B14F',
       gray: '#F9FBFD',
       darkgray: '#F7F7F7',
-      footernew: '#EAEFF2'
+      footernew: '#EAEFF2',
+      transparent: 'transparent'
     }
   },
   plugins: []
