@@ -17,9 +17,27 @@
         },
 
         {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090002029142/photo/59e9233b_11b2e447aaf.jpeg",
+          "name": "Nasi Goreng Do Yan Seafood",
+          "description": "Nasi goreng seafood  yang bikin doyan dengan isian telur, cumi, udang dan masih bisa ditambah dengan toping"
+        },
+
+        {
           "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090004019767/photo/b031427f_bb8709e4e00.jpeg",
           "name": "Seo Goo Cumi Saus Telur Asin",
           "description": "Nasi putih + Cumi goreng tepung saus telur asin"
+        },
+
+        {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090005024740/photo/ba094858_f4282e50a8b.jpeg",
+          "name": "Seo Goo Cumi Crispy (Banyak Pilihan Saos)",
+          "description": "Nasi Kotak Cumi (Calmari Rice Box)"
+        },
+
+        {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090006058290/photo/b06980e6_a9a4dc09d63.jpeg",
+          "name": "Seo Goo Lalapan Ikan Nila Bakar/Goreng",
+          "description": "Nasi Kotak Ikan Bakar (Grilled Fish Rice Box)"
         }
       ]
     },
@@ -28,6 +46,12 @@
       "categoryName": "Chingu",
 
       "menuItems": [
+        {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090009019785/photo/5eefdacf_7dd55e6fe6d.jpeg",
+          "name": "Oppa Cham Po Ryeo (Crispy Gurita, Cumi & Udang)",
+          "description": "Goreng Krispi Campur Gurita, Udang, & Cumi (Octopus, ..)"
+        },
+
         {
           "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090010010104/photo/4f26b747_5b7568648ea.jpeg",
           "name": "Oppa Cumi ( Cumi Utuh Crispy)",
@@ -44,6 +68,12 @@
           "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090012027202/photo/b4a46b46_af001f0b18b.jpeg",
           "name": "Oppa Cumi Bae Sah ( Cumi dan kerang Masak Saos - 2 Porsi)",
           "description": "Cumi Masak Saos (Cooked Calamari With Sauce)"
+        },
+
+        {
+          "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20211207090014018712/photo/b83b91c7_785bdb7bb3a.jpeg",
+          "name": "Oppa Gurita Crispy",
+          "description": "Gurita Goreng Krispi (Crispy Fried Octopus)"
         }
       ]
     },
