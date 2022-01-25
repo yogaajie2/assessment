@@ -1,7 +1,7 @@
 # assessment
 
 ## Getting Started
-1. Fork this repository to you own GitHub account and then clone it to your local device.
+1. Fork this repository to your own GitHub account and then clone it to your local device.
 2. Make sure you have [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) installed in your device.
 
 ## Build Setup
