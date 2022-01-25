@@ -5,6 +5,7 @@
     <MerchantPhoto />
     <MerchantInfo />
     <ScheduledOrder />
+    <MenuTab />
     <TheMenu />
     <FooterNew />
     <FooterDark />
