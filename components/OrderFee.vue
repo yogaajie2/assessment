@@ -1,5 +1,8 @@
 <template>
-  <div class="flex rounded py-2 px-4 bg-gray lg:flex-row-reverse lg:justify-end lg:p-0 lg:bg-transparent">
+  <div
+    class="flex rounded py-2 px-4 bg-gray lg:flex-row-reverse lg:justify-end lg:p-0 lg:bg-transparent"
+    @click="$nuxt.$emit('showOrderFeeModal')"
+  >
     <p class="text-xs lg:ml-2 lg:text-sm">
       Order fee of Rp3.000 applies for this restaurant.
     </p>

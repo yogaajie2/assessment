@@ -9,7 +9,10 @@
         DUKUNGUMKM 60% | HEMAT40 40% | HEMAT35 35%
       </p>
     </div>
-    <p class="font-medium text-blue cursor-pointer">
+    <p
+      class="font-medium text-blue cursor-pointer"
+      @click="$nuxt.$emit('showPromoModal')"
+    >
       See details
     </p>
   </div>
