@@ -10,8 +10,7 @@
         <a
           v-for="(category, index) in categories"
           :key="index"
-          href="javascript:void(0)"
-          class="p-3 text-sm text-secondary"
+          :href="`#${category.categoryName}`"
         >{{ category.categoryName }}</a>
       </div>
 
