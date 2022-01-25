@@ -12,6 +12,7 @@ module.exports = {
     container: {
       center: true,
       padding: {
+        DEFAULT: '0.75rem',
         lg: '7rem'
       }
     },
