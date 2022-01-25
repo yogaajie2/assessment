@@ -10,7 +10,10 @@ module.exports = {
   content: [],
   theme: {
     container: {
-      center: true
+      center: true,
+      padding: {
+        lg: '7rem'
+      }
     },
 
     extend: {
