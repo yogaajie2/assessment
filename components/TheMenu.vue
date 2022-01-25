@@ -1,5 +1,5 @@
 <template>
-  <section class="py-18 bg-darkgray">
+  <section class="py-2 bg-darkgray lg:py-18">
     <div class="lg:container">
       <MenuCategory
         v-for="(menu, index) in menus"
